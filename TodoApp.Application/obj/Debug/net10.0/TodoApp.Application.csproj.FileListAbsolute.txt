@@ -1,0 +1,15 @@
+C:\Users\hridy\source\repos\ToDoList\TodoApp.Application\bin\Debug\net10.0\TodoApp.Application.deps.json
+C:\Users\hridy\source\repos\ToDoList\TodoApp.Application\bin\Debug\net10.0\TodoApp.Application.dll
+C:\Users\hridy\source\repos\ToDoList\TodoApp.Application\bin\Debug\net10.0\TodoApp.Application.pdb
+C:\Users\hridy\source\repos\ToDoList\TodoApp.Application\bin\Debug\net10.0\TodoApp.Domain.dll
+C:\Users\hridy\source\repos\ToDoList\TodoApp.Application\bin\Debug\net10.0\TodoApp.Domain.pdb
+C:\Users\hridy\source\repos\ToDoList\TodoApp.Application\obj\Debug\net10.0\TodoApp.Application.csproj.AssemblyReference.cache
+C:\Users\hridy\source\repos\ToDoList\TodoApp.Application\obj\Debug\net10.0\TodoApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hridy\source\repos\ToDoList\TodoApp.Application\obj\Debug\net10.0\TodoApp.Application.AssemblyInfoInputs.cache
+C:\Users\hridy\source\repos\ToDoList\TodoApp.Application\obj\Debug\net10.0\TodoApp.Application.AssemblyInfo.cs
+C:\Users\hridy\source\repos\ToDoList\TodoApp.Application\obj\Debug\net10.0\TodoApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\hridy\source\repos\ToDoList\TodoApp.Application\obj\Debug\net10.0\TodoApp..05D78BBE.Up2Date
+C:\Users\hridy\source\repos\ToDoList\TodoApp.Application\obj\Debug\net10.0\TodoApp.Application.dll
+C:\Users\hridy\source\repos\ToDoList\TodoApp.Application\obj\Debug\net10.0\refint\TodoApp.Application.dll
+C:\Users\hridy\source\repos\ToDoList\TodoApp.Application\obj\Debug\net10.0\TodoApp.Application.pdb
+C:\Users\hridy\source\repos\ToDoList\TodoApp.Application\obj\Debug\net10.0\ref\TodoApp.Application.dll

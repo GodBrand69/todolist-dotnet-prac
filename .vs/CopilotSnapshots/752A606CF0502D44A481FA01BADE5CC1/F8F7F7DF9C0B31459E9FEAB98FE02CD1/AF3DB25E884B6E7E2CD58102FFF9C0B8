@@ -1,0 +1,15 @@
+﻿{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    },
+    "ConnectionStrings": {
+      "DefaultConnection": "Server=(localdb)\\MSSQLLocalDB;Database=todoapp;TrustServerCertificate=true;Trusted_Connection=true;Encrypt=false;"
+    },
+    "Jwt": {
+      "Key": "mNpnDkqsqHZ87y0P8QZIkPLwYxUbGXJTiPu1RjTI5Lh!!"
+    },  
+  },
+  "AllowedHosts": "*"
+}
